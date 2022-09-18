@@ -1,0 +1,221 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml/0.4" xmlns:md1="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" cnxml-version="0.7" module-id="m55491"><title/><content><section id="id1172429406970"><title>Video Games in Education</title>
+      <para id="id1172435425858">Culture as a whole is warming up to video games. Once relegated to dark corners of arcades and shopping mall food courts, they have become ubiquitous in modern America. Despite their transformation from nerd past-time to fun for everyone, they are still in the beginning stages of being used for education.</para>
+      <para id="id1172428974021">&#8220;Sandbox&#8221; games have great potential for a physics classroom. The classification refers to a game where the user is free to create their own world and play in it &#8211; the game is a set of rules (like the physical laws of our universe) instead of a story you simply play through. These games are great learning tools because of the many controls they give the user. The passage of time, friction coefficients, and initial conditions are just a few variables among hundreds placed in your hands.</para>
+      <para id="id1172426355558">One of the most advanced sandbox games is Algodoo. It is a follow up to the noteworthy Phun, and now includes optics in addition to the dynamics featured in many physics games. It not only gives great freedom in creation, it comes with powerful tools for observation and analysis. Real-time vectors can be displayed for forces and velocities, in addition to customizable two-dimensional plots.</para>
+    </section>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <section id="id1172429038702"><title>How to Get Started With Algodoo</title>
+      <para id="id1172425109830">Your first step will be to download the program from Algodoo.com, and then get to playing with it. For your first steps, the tutorials on the Algodoo website are hard to beat.</para>
+      <para id="id1172419743190">
+        <link url="http://www.algodoo.com/wiki/Tutorials">http://www.algodoo.com/wiki/Tutorials</link>
+      </para>
+      <para id="id1172422580118">The first teaches you the basic interface, and simple structures. It is a must if you have never used Phun or Algodoo before, but may be a bit slow paced for some. Fortunately, all of the instructions are given in text, and there is no audio &#8211; you can skip ahead or pause to slow down to your heart&#8217;s content. Some things they do not mention are the in the program, your mouse&#8217;s scroll wheel controls zooming in or out. There is a pan button, but the easiest way to move the view is to hold down the right mouse button and drag the mouse &#8211; but make sure you are not over top an object when you click (that rotates the object).</para>
+      <para id="id1172422180251">The second video moves on to using gears, dealing with collision groups, and other options. This is one you do not want to miss. Because Algodoo is presented 2-dimensionally, not specifying which objects should interact can create significant problems (think two objects trying occupy the same point in space). By arranging items in collision groups, you are more or less moving them from foreground to background. A good example is having vehicle wheels not interact with the body.</para>
+      <para id="id1172438327119">The third moves on to lasers, as well as changing materials. Unlike simpler simulators, every object you create in Algadoo can have its fundamental properties changed &#8211; from mass to refractive index. You can also create fluids, though I would not recommend it unless fluids are the focus of a lesson. Algadoo calculates fluids as huge groups of spheres, and calculating all of those interactions really slows it down.</para>
+    </section>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <section id="id1172432017000"><title>Classroom Examples</title>
+      <para id="id1172424535949">Unlike other physics or sandbox games like Armadillo Run, Algodoo was created with education in mind. The program was released just over a month ago, and as such examples of it being used in classrooms are not available. However, their database of lessons already contains more than a dozen prepared lessons. It is in the format of a wiki, and will eventually be opened for outside submission. One thing to note is that the lessons do not feature prepared &#8220;scenes&#8221; &#8211; you must create them yourself. </para>
+      <section id="id7781630"><title>Gears and chains, ropes and pulleys</title>
+        <para id="id1172438283838">This lesson encourages students to think about why power is transmitted in different ways. What are the advantages of gears and chains compared to pulleys, or shafts? Students can design and/or create a system of fantastic or reality-based design, and predict and evaluate its effectiveness.</para>
+        <para id="id1172405905834">
+          <link url="http://www.algodoo.com/wiki/Gears_and_chains_ropes_and_pulleys_(lesson)">http://www.algodoo.com/wiki/Gears_and_chains_ropes_and_pulleys_(lesson)</link>
+        </para>
+      </section>
+      <section id="id1172418033858"><title>Rainbows</title>
+        <para id="id1172425109837">This is great way to explore the interaction of light with prisms. Students should experience a subject as fundamental as simple optics firsthand, in real life, but a program like Algodoo can provide extensions to complicated scenarios that are practical in real life. Students or the instructor can easily vary the size, shape, angle, and number of prisms present, as well as the intensity and color of light.</para>
+        <para id="id1172421963466">
+          <link url="http://www.algodoo.com/wiki/Rainbows_(lesson)">http://www.algodoo.com/wiki/Rainbows_(lesson)</link>
+        </para>
+      </section>
+      <section id="id1172420413166"><title>Water Tower</title>
+        <para id="id1172426364634">This lesson is a great way to connect physics with real life, through an engaging piece of technology. It is easy to take water, and water pressure, for granted in modern life &#8211; but why is water so eager to come out of the tap? In this lesson students learn about the basic principles of water supply systems, and reinforce fundamentals in fluids. Fluid dynamics feature concepts that are often hard to visualize, such as the distribution of pressure in a fluid. Algodoo&#8217;s visualizations allow students to see forces as they happen.</para>
+        <para id="id1172424042586">
+          <link url="http://www.algodoo.com/wiki/Water_tower_(lesson)">http://www.algodoo.com/wiki/Water_tower_(lesson)</link>
+        </para>
+      </section>
+      <section id="id1172428687928"><title>Arch Construction</title>
+        <para id="id1172438822133">Architecture is a great way to study static forces. It is not uncommon for a student to know of arch construction, or that keystones are important &#8211; however, most do not know the underlying principles. In this lesson, students learn about the important relationship between pressure and frictional forces. Arches depend on the pressure of heavy building materials to provide significant friction forces &#8211; without friction, the blocks would slip apart. </para>
+        <para id="id1172435999152">
+          <link url="http://www.algodoo.com/wiki/Arch_constructions_(lesson)">http://www.algodoo.com/wiki/Arch_constructions_(lesson)</link>
+        </para>
+      </section>
+    </section>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <section id="id1172432539704"><title>Assessing &#8230; for the Classroom</title>
+      <section id="id1172422012515"><title>Pro&#8217;s</title>
+        <para id="id1172404104317">A simulation allows construction without the limitations of cost, practicality, or scale. It provides a source of infinite prototypes, and as such is excellent for the planning stages of projects like trebuchets. Furthermore, the visualization tools do things that simply can not be done traditionally, like real time force vectors and plots, created with a few clicks of the mouse. </para>
+      </section>
+      <section id="id7603922"><title>Con&#8217;s</title>
+        <para id="id5261140">The downside to anything as freeform as Algodoo is the potential for distraction and wasted time. Additionally, it requires computers that may not be available. It requires that students have a clear objective, and also spend at least some time learning the program&#8217;s interface. It is an improvement over its predecessor Phun, but it still takes some getting used to. It is also not perfect &#8211; care must be taken with collisions and other snafus.</para>
+      </section>
+    </section>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <section id="id1172407923462"><title>Considerations for Teachers</title>
+      <list list-type="bulleted" id="id1172431899623">
+        <item>Like any technology, you should become familiar with Algodoo before using it in front of your class.</item>
+        <item>It may be best to have students plan before using the program, and work in groups.</item>
+        <item>If computers for the students are not available, have the students draw blueprints or otherwise brainstorm ideas for you to create in front of the class.</item>
+        <item>Simulations are just that &#8211; simulations. They should supplement hands-on labs and experiences, not replace them.</item>
+      </list>
+    </section>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  </content></document>
